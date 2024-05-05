@@ -15,8 +15,12 @@ Experiment Roster (df_final_experiment_clients): A list revealing which clients 
 
 | Folder | File | Description |
 |-----------------|-----------------|-----------------|
-|     |     |     |
-|     |     |     |
+| Dataset    | df_final_demo    |Demographics like age, gender, and account details of our clients     |
+|     |pt_1     |A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. It’s recommended to merge these two files prior to a comprehensive data analysis |
+|     |pt_2     |A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. It’s recommended to merge these two files prior to a comprehensive data analysis|
+|     |df_final_experiment_clients    |A list revealing which clients were part of the grand experiment|
+| Cleaned dataset   | Vanguard Data.csv    |Csv files of raw and final datasets     |
+|Python   | Test.ipynb   |Jupyter notebook - the process of cleaning and transforming the original data and exporting final csv files|
 
 ---
 **Source**:
