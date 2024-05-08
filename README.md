@@ -21,6 +21,7 @@ Experiment Roster (df_final_experiment_clients): A list revealing which clients 
 |     |df_final_experiment_clients    |A list revealing which clients were part of the grand experiment|
 | Cleaned dataset   | Vanguard Data.csv    |Csv files of raw and final datasets     |
 |Python   | Test.ipynb   |Jupyter notebook - the process of cleaning and transforming the original data and exporting final csv files|
+|Tableu  | Test.ipynb   |Tableau - includes worksheets, dashboards and the story of visualizations.|
 
 ---
 **Source**:
